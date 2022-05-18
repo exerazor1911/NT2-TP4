@@ -4,6 +4,7 @@ import VueRouter from 'vue-router'
 import Form from './components/Form.vue'
 import Usuarios from './components/Usuarios.vue'
 
+
 Vue.use(VueRouter)
 
 export const router = new VueRouter({
